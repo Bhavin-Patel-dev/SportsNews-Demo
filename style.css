@@ -2,6 +2,9 @@
   display: flex;
   justify-content: space-between;
   flex-direction: row;
+  padding-left: 40px;
+  padding-right: 40px;
+  align-items: center;
 }
 
 .navbar-items {
@@ -10,4 +13,13 @@
   list-style-type: none;
   justify-content: space-between;
   width: 60%;
+  color: #b8c2ce;
+}
+
+.navbar-btn {
+  background-color: #b8c2ce;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  padding: 10px;
 }
