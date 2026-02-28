@@ -3,3 +3,10 @@
   justify-content: center;
   flex-direction: row;
 }
+
+.navbar-items {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  justify-content: space-between;
+}
