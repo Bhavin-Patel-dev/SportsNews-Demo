@@ -9,4 +9,5 @@
   flex-direction: row;
   list-style-type: none;
   justify-content: space-between;
+  width: 60%;
 }
