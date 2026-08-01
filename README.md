@@ -27,6 +27,3 @@ open index.html
 ```
 
 Or just double-click `index.html` to open it directly in your browser.
-
-## Author
- **Bhavin Patel** — [@Bhavin-Patel-dev](https://github.com/Bhavin-Patel-dev) 
